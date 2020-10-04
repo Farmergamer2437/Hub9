@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Farmergamer2437/Hub9/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Farmergamer2437/Hub9/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1 style="text-align: center;"><span style="color: #ff6600;">Donations</span></h1>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Welcome to the donations page where you can donate to recive benifits and/or chages to the server in your name.&nbsp;</p>
+<p>&nbsp;</p>
+<table style="height: 231px; width: 565px;">
+<tbody>
+<tr style="height: 24.2917px;">
+<td style="width: 152.549px; height: 24.2917px; text-align: center;">Iron Donation</td>
+<td style="width: 210.451px; height: 24.2917px; text-align: center;">Gold Donation</td>
+<td style="width: 182px; height: 24.2917px; text-align: center;">Diamond Donation</td>
+</tr>
+<tr style="height: 70px;">
+<td style="width: 152.549px; height: 70px;">&nbsp;I like the server and get a donation block every day</td>
+<td style="width: 210.451px; height: 70px;">&nbsp;I love the server and get a donation block every day</td>
+<td style="width: 182px; height: 70px;">&nbsp;I would die for the server and get as many donation blocks as I want</td>
+</tr>
+<tr style="height: 70px;">
+<td style="width: 152.549px; height: 70px;">&nbsp;Contact Farmergamer2437</td>
+<td style="width: 210.451px; height: 70px;">
+<p>&nbsp;Conatct</p>
+<p>Farmergamer2437</p>
+</td>
+<td style="width: 182px; height: 70px;">
+<p>Contact&nbsp;</p>
+<p>Farmergamer2437&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>To get to the hub click&nbsp;<a href="https://farmergamer2437.github.io/Hub2/">here</a>.</p>
